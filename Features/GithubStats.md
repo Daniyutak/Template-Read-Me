@@ -1,5 +1,6 @@
 # Github Stats Badges
 
+**Repositório oficial e créditos:** [Repositório](https://github.com/anuraghazra/github-readme-stats)
 **Site:** [Github stats](https://gh-stats-gen.vercel.app)
 
 Github Stats permite que você mostre informações gerais sobre seu perfil, como número de commits, linguagens e informações sobre repositórios. Além disso, o site permite escolher diferentes temas/cores para o seu emblema.
@@ -38,4 +39,4 @@ O código abaixo em markdown:
 Usando picture e sourceset é possível modificar um stats para versão dark mode/light mode do github de quem está vendo seu perfil. Essa feature pode ser entendida no arquivo light/dark mode desse repositório.
 
 
-
+> O githubstats parou de funcionar algumas vezes, então recomendo ter salva uma versão do read me sem o github stats por precaução. Talvez haja formas de usar mesmo com ele caido, localmente ou algo do tipo. Consulte o (Repo oficial)[https://github.com/anuraghazra/github-readme-stats]
