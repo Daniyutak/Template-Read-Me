@@ -1,6 +1,7 @@
 # Github Stats Badges
 
 **Repositório oficial e créditos:** [Repositório](https://github.com/anuraghazra/github-readme-stats)
+
 **Site:** [Github stats](https://gh-stats-gen.vercel.app)
 
 Github Stats permite que você mostre informações gerais sobre seu perfil, como número de commits, linguagens e informações sobre repositórios. Além disso, o site permite escolher diferentes temas/cores para o seu emblema.
